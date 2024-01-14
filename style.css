@@ -1,0 +1,184 @@
+.navbar{
+    height: 90px;
+    background-color:whitesmoke;
+    position: fixed;
+    width: 100%;
+    
+}
+
+.logo{
+    color:  #2C3E50; ;
+    font-size: 25px;
+    margin-left: 100px;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+
+.port{
+    margin-left: 850px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #2C3E50;    
+ 
+}
+
+.About{
+    text-decoration: none;
+    color:  #2C3E50; 
+    font-size: 15px;
+    margin-left: 30px;
+}
+.contact{
+    text-decoration: none;
+    color:  #2C3E50;
+    font-size: 15px;
+    margin-left: 25px;
+    margin-right: 100px;
+    
+}
+.hire{
+    text-decoration: none;
+    color:  #2C3E50; ;
+    font-size: 15px;
+    margin-left: 25px;
+    margin-right: 0px;    
+}
+#an :hover{
+    background-color:rgb(8, 91, 216);
+}
+.box{
+    height: 3500px;
+    background-color:lavender;
+    
+    position: relative;
+}
+.box1{
+      height: 500px;
+      width: 700px;
+     
+      position: absolute;
+      margin-left: 200px;
+      margin-top: 50px;
+      text-align: left;
+      font-family: sans-serif;
+      font-size: 20px;
+}
+.box2{
+    height: 500px;
+    width: 700px;
+ 
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 50px;
+    text-align: center;
+}
+.box3{ 
+    height: 300px;
+    width: 300px;
+    margin-left: 700px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.About1{
+ 
+    position: relative;
+}
+.box4{
+    height: 650px;
+    width: 595px;
+   
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.box5{
+   
+    height: 650px;
+    width: 600px;
+ 
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.button{
+    margin-left: 900px;
+    margin-top: 600px;
+    height: 60px;
+    width: 300px;
+    color: ;
+    background-color: lavender;
+    border-radius: 5px;
+    border-color: white;
+}
+.an :hover{
+    background-color:white;
+}
+.work{
+    margin-left: 600px; 
+    width: 400px;
+}
+
+
+footer{
+    height: 700px;
+    width: 1700px;
+    background-color: #2C3E50;
+   
+    color: white;
+    font-size: 25px;
+   
+}
+.boxf5{
+    position: relative;
+    color:  #2C3E50;
+}
+.boxf{
+    height: 100px;
+    width: 190px;
+    border: white;
+    margin-left: 100px;
+    margin-top: 110px;
+    position: absolute;
+}
+.boxf1{
+    height: 100px;
+    width: 1000px;
+    border-color: aliceblue;
+    margin-left: 500px;
+    position: absolute;
+    margin-top: 50px;
+}
+.boxf2{
+    height: 100px;
+    width: 190px;
+    border: white;
+    margin-left: 800px;
+    margin-top: 50px;
+    position: absolute;
+
+}
+.boxf3{
+    height: 100px;
+    width: 190px;
+    border: white;
+    margin-left: 1100px;
+    margin-top: 50px;
+    position: absolute;
+}
+
+
+.breakline{
+    margin-top: 500px;
+    text-align: center;
+}
+.Designed{
+    text-align: center;
+}
+
